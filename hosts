@@ -4683,28 +4683,28 @@
 #2001:418:e801::15:7 api.bitly.com
 
 #Facebook 脸谱网
-2a03:2880:10:cf01:face:b00c::: facebook.com
-2a03:2880:10:8f02:face:b00c:0:25 www.facebook.com
-2a03:2880:10:8f02:face:b00c:0:26 api-read.facebook.com
-2a03:2880:10:cf02:face:b00c:: connect.facebook.com #www.facebook.com
-2a03:2880:10:8f02:face:b00c:0:26 graph.facebook.com
-2a03:2880:10:6f01:face:b00c:0:2 zh-cn.facebook.com #star.facebook.com
-2a03:2880:10:6f01:face:b00c:0:2 zh-tw.facebook.com #star.facebook.com
-2a03:2880:10:6f01:face:b00c:0:2 check6.facebook.com
-2a03:2880:10:6f01:face:b00c:0:3 m.facebook.com
-2a03:2880:10:8f02:face:b00c:0:27 apps.facebook.com
-2a03:2880:10:6f01:face:b00c:0:2 login.facebook.com #star.facebook.com
-2a03:2880:10:8f01:face:b00c:0:27 pixel.facebook.com #star.facebook.com
-2a03:2880:10:8f01:face:b00c:0:27 star.facebook.com
-2a03:2880:10:8f02:face:b00c:0:29 upload.facebook.com
-2620:0:1cfe:face:b00c::3 www.v6.facebook.com
-2620:0:1cfe:face:b00c::3 attachments.facebook.com #?
+2a03:2880:10:6f01:face:b00c:0:8 facebook.com
+2a03:2880:10:6f01:face:b00c:0:8 www.facebook.com
+2a03:2880:10:cf02:face:b00c:0:5 api-read.facebook.com
+2a03:2880:10:cf02:face:b00c:0:5 connect.facebook.com #www.facebook.com
+2a03:2880:10:cf02:face:b00c:0:5 graph.facebook.com
+2a03:2880:10:6f01:face:b00c:0:8 zh-cn.facebook.com #star.facebook.com
+2a03:2880:10:6f01:face:b00c:0:8 zh-tw.facebook.com #star.facebook.com
+2a03:2880:10:6f01:face:b00c:0:8 check6.facebook.com
+2a03:2880:10:cf02:face:b00c:0:6 m.facebook.com
+2a03:2880:10:6f01:face:b00c:0:8 apps.facebook.com
+2a03:2880:10:6f01:face:b00c:0:8 login.facebook.com #star.facebook.com
+2a03:2880:10:6f01:face:b00c:0:8 pixel.facebook.com #star.facebook.com
+2a03:2880:10:8f02:face:b00c:0:1 star.facebook.com
+2a03:2880:10:8f02:face:b00c:0:1 upload.facebook.com
+2620:0:1cfe:face:b00c:0:0:3 www.v6.facebook.com
+2a03:2880:10:8f02:face:b00c:0:1 attachments.facebook.com #?
 #2620:0:1cfe:face:b00c::4 login.v6.facebook.com
-2620:0:1cfe:face:b00c::6 apps.v6.facebook.com
+2620:0:1cfe:face:b00c:0:0:6 apps.v6.facebook.com
 2620:0:1cfe:face:b00c::3 333.channel.facebook.com #?
 #2620:0:1cfe:face:b00c::3 333.ctest.facebook.com
 #如需正常使用页面底部聊天功能，请通过 pac 代理 *.channel.facebook.com
-2a03:2880:10:cf01:face:b00c:0:4 developers.facebook.com
+2a03:2880:10:1f02:face:b00c:0:8 developers.facebook.com
 #2620:0:1cfe:face:b00c::3 developers.v6.facebook.com
 #2620:0:1cfe:face:b00c::3 external.ak.fbcdn.net
 2620:0:1cfe:face:b00c::3 error.12.channel.facebook.com #?
