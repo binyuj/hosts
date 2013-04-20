@@ -100,10 +100,15 @@
 
 2404:6800:4005:6::8         r3---sn-i3b7sn7k.c.youtube.com
 2404:6800:4005:2:0:0:0:8    r3---sn-i3b76n7s.c.youtube.com
+
+
 2404:6800:4005:0:0:0:0:9    r4---hkg05s01.c.youtube.com
 
 2404:6800:4005:1:0:0:0:9    r4---sn-i3b76n7l.c.youtube.com
 2404:6800:4005:1:0:0:0:9    r4---sn-p5qlsu7d.c.youtube.com
+2404:6800:4008:8::9         r4---sn-u2x76n7y.c.youtube.com
+74.125.213.83               r4---sn-o097zues.c.youtube.com
+2607:f8b0:4002:b::9         r4---sn-5uaeznl7.c.youtube.com
 
 2404:6800:4005::a           r5---hkg05s01.c.youtube.com
 2404:6800:4005:2::a         r5---hkg05s03.c.youtube.com
@@ -122,10 +127,11 @@
 2404:6800:4005:0:0:0:0:b    r6---hkg05s01.c.youtube.com
 2404:6800:4005:0:0:0:0:b    r6---sn-p5qlsu7d.c.youtube.com
 
+2404:6800:4005:5::c         r7---sn-i3b7sn7d.c.youtube.com
 2404:6800:4005:0:0:0:0:c    r7---sn-i3b76n7e.c.youtube.com
 2404:6800:4005:0:0:0:0:c    r7---hkg05s01.c.youtube.com
 2404:6800:4005:0:0:0:0:c    r7---sn-p5qlsu7e.c.youtube.com
-173.194.51.107              r7---sn-o097zues.c.youtube.com
+74.125.213.86              r7---sn-o097zues.c.youtube.com
 2404:6800:4005:0:0:0:0:6    r8---sn-cg07luez.c.youtube.com
 2404:6800:4005::d           r8---sn-i3b76n7e.c.youtube.com
 2404:6800:4005:0:0:0:0:6    r8---sn-p5qlsu7r.c.youtube.com
@@ -161,6 +167,7 @@
 2404:6800:4005:4::13        r14---sn-i3b7sn76.c.youtube.com
 2404:6800:4005:6::13        r14---sn-i3b7sn7k.c.youtube.com
 2404:6800:4005:3:0:0:0:13   r14---sn-i3b76n7z.c.youtube.com
+2404:6800:4005:2::13        r14---sn-i3b76n7s.c.youtube.com
 2404:6800:4005:3:0:0:0:13   r14---sn-npo7enes.c.youtube.com
 2404:6800:4005:5:0:0:0:14   r15---sn-i3b76n7l.c.youtube.com
 2404:6800:4005:5:0:0:0:15   r15---sn-i3b7sn7d.c.youtube.com
