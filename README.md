@@ -1,4 +1,2 @@
-hosts
+This is a backup of my config
 =====
-
-my hosts
